@@ -1,0 +1,32 @@
+4.  Kreiranje objekata
+Objekti su promenljive tipa neke klase
+da bi incijalizovali objekte potrebno je pozvati specijalnu metodu za kreiranje objekata posmatrane klase
+Ta specijalna metoda se definise u telu klase iz kojeh se definisu objekti i naziva se konstrukotr
+definicija konstruktora
+1.Public
+2. ime klase
+3. unutar obicnih zagrada definisu se parametri konstruktora, parametri su ulazni podaci za konstruktor i kosriste se uglavnom za inicalizaciu polja objekatakoji se kreiraju pozivanjem konstruktora i ako postoji vise parametara oni se odvajaju zarezom
+4. telo konstruktora pocinje odma iza definicje parametara odmah iza zatvorene obicne zagrade posle definicije parametara.Telo konstrukota se definise unutar otvorene i zatvorene viticaste naredbe koje se nalaze izmedju viticastih zagrada izvrsavaju se prilikom kreiranja posmatranog objekta.Uglavnom su naredbe za inicijalizac
+iju polja posmatranih objekata koji se u tom momentu kreira i kao vrednosti se uglavnom koriste ulazni argumenti proslednjeni prilikom poziva konstruktora this ukazuje na klase objekta this. ime ukazuje un utare rtela klse
+kreiranjne objektattrae kreiranje oobjketa se realizuje na isti nacin kao bilo koja promenljiva kojom se dodeljuje neka vrednbost tako sto se navodi ime objekta sa leve strane operatora dodeljivanja a sa desne se poziva konstruktorje pozivanje konsturkortoa 2lt ackle
+1.new
+2.ime konstrukota 
+3.Unutar obicnih zagrada se prsledjuju argujmenti(konkretne vrednosti u istom redosledu kako su definisaiparametri u difiniciji konstrukoita
+
+-Kada se kreraju objekti od neke klase onda kazemo da su ti objekti instanca te klase
+\
+Ako zeliumo da koristimo neki objekat to jest clanove tog objekta onda koristimo tako zvanu .notaciju tj. navodimo taj objekat isped tacke a iza tacke navodimo clan tog objekta. <ime objekta>.<clan objekta> 
+Pozivanje klase
+pozivanje metode predstavlja deo obrade neke naredbe 
+Uglavnom se rezulltat metode prosledjuje nekoj lokalnoj promenljivoj preko operatora dodeljivanja tj. rezultat metode je nova vrednost dodeljenoj promenljivoj kad se pozivaju metode one jedino mogu da se pozivaju iz nekog objekta klase u koje je definisana ta metoda objaekat se poziva iz objekta koristeci tacka notaciju
+prvo se naziva ime objekta pre tacke, a iza tacke se navodi poziv metode. Definicija poziva ime objekta, TACKA , POZIV
+Ime metode
+U obicnim zagradama prosledjuju se konkretne vrednosti (argumenti) u onom istom redosledu i iistog tipa kako su definisani parametri unuter definicije metode
+U definiciji metode parametri mogu da se izostave u tom slucaju prilikom pozivanja metode obicne prazne zagrade su obavezne
+POziv metode moze da postoji kao samostalna naredbaa;li u tom slucaju rezultat metode se nece nigde sacuvati 
+7. Tip metode void
+Metodama mozete u definiciji kao tip dodelit i tip void //*\\ tada metoda ne vraca nikakav rezultat je da izvrsi narewdbe `
+Tafda naredbad return moze da se izostavi ili se u nekom momentu prekida ojnda se navodi returjn naredba bez rezultata 
+
+
+ 

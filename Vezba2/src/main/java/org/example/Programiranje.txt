@@ -1,0 +1,16 @@
+8.klase kao pokazivaci tip podatka
+1.primitivni tipovi podataka(pocinju sa malim slovom)int,float... itd
+2.pokazivacke tipove podataka(pocinju velikim slovom)String,Osba,System...itd
+Memoria RAM  se deli na dva.Stack i Head
+na steku se cuvaju promenljive primitivfnih tipova podataka int,float,double,char,float...
+promenljiuva se cuvaju na njihovim simbolickim adresama
+promenljive pokazivackog tipa podataka(String,org.example.Osoba...) na
+promenljiva simobolickwe adresa koja upuciuje na svoj objekat na heep.
+pokazivbacki tripovi mogu dsa im sde dawodlei dpercxificnas vrednost null onda kazemio za stu promenljivu da ne upucuje ni na jedan objekat na hip memoriji
+9. staticki clanovi klase se koriste da bi oisali univerzalnhe pojave koje su van domasakja objek,ata
+staticki volanobi su glovbaopni vlanovi klase i one postoje nezzvisno od objekta kao klAAS UKOJIMA SU DWEFINISANI I POSTOJE DOK APLIKACIJA RADI
+znacvi one uvke posroje dakled one ne mogu da s epozivaju iz objkeklta jerr naju objektyu vec se pozivaju iz same klase
+clanovi klase koji se pozivaju iz objekta zovu se nestaticki clanovi ne statickih klasa sopstveni ne staticke klase
+staticke metode se definisu kqao i nestaticke metode ali uz prefiks static na pocetku definicije2 unutar rtela statickw metode ne mozwete da pozivate sa this prefiksom
+proizvoljda doaba klasemauibjoasxcvb klase unutar razliuvc c mohgu medjusobno da se :"vfideawko sdfldfhl'ksdfl ako njihovu java fajlovi pripadaju istom paketa
+rzliciye n e mogu merdjusobno  dosegit1
